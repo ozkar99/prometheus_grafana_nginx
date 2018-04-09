@@ -1,0 +1,10 @@
+prometheus.yml
+
+nginx.conf
+htpasswd
+
+prometheus_data/*
+!prometheus_data/.gitkeep
+
+grafana_data/*
+!grafana_data/.gitkeep
